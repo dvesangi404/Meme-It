@@ -9,7 +9,7 @@
 **Meme-it** is a playful, intelligent meme generator that turns your text ideas into ready-to-share memes.  
 Powered by generative AI, it interprets your prompt, crafts a clever caption, and pairs it with the perfect visual style — creating viral-ready humor in seconds.
 
-The project blends creativity and automation, showing how AI can personalize content generation for modern social media.
+Just a fun experiment with Gemini, i guess? :)
 
 ---
 
@@ -18,7 +18,6 @@ The project blends creativity and automation, showing how AI can personalize con
 - 🎭 **Context-Aware Captioning** – Uses LLM-based text understanding to match tone, sarcasm, and style.  
 - 🖼️ **Smart Image Selection** – Chooses or recommends relevant templates dynamically.  
 - 💬 **Instant Preview & Download** – Lets users view, refine, and export memes immediately.  
-- 🎨 **Brand-Free Experience** – Custom-themed UI with “Meme-it” watermark branding removed for a clean aesthetic.  
 
 ---
 
@@ -30,7 +29,6 @@ The project blends creativity and automation, showing how AI can personalize con
 | **AI Integration** | Gemini API (text + image generation) |
 | **Data Handling** | Local storage for meme metadata |
 | **Version Control** | Git & GitHub |
-| **Deployment (optional)** | Render / Vercel |
 
 ---
 
