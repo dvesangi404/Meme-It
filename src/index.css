@@ -8,44 +8,44 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 280 30% 12%;
-    --foreground: 0 0% 98%;
+    --background: 45 95% 88%;
+    --foreground: 0 0% 15%;
 
-    --card: 280 25% 16%;
-    --card-foreground: 0 0% 98%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 15%;
 
-    --popover: 280 30% 14%;
-    --popover-foreground: 0 0% 98%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 15%;
 
-    --primary: 290 80% 65%;
-    --primary-foreground: 0 0% 100%;
+    --primary: 45 90% 55%;
+    --primary-foreground: 0 0% 15%;
 
-    --secondary: 320 85% 70%;
+    --secondary: 0 0% 20%;
     --secondary-foreground: 0 0% 100%;
 
-    --muted: 280 20% 25%;
-    --muted-foreground: 280 10% 70%;
+    --muted: 45 30% 75%;
+    --muted-foreground: 0 0% 35%;
 
-    --accent: 200 80% 60%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 45 100% 65%;
+    --accent-foreground: 0 0% 15%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 280 20% 25%;
-    --input: 280 25% 20%;
-    --ring: 290 80% 65%;
+    --border: 45 30% 70%;
+    --input: 0 0% 100%;
+    --ring: 45 90% 55%;
 
-    --radius: 1rem;
+    --radius: 0.75rem;
 
     /* Custom gradient colors */
-    --gradient-start: 290 80% 65%;
-    --gradient-mid: 320 85% 70%;
-    --gradient-end: 200 80% 60%;
+    --gradient-start: 45 95% 88%;
+    --gradient-mid: 45 85% 82%;
+    --gradient-end: 45 95% 88%;
 
     /* Glow effect */
-    --glow-primary: 290 80% 65%;
-    --glow-secondary: 320 85% 70%;
+    --glow-primary: 45 90% 55%;
+    --glow-secondary: 45 100% 65%;
   }
 }
 

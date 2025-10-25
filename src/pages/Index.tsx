@@ -7,7 +7,7 @@ const Index = () => {
         {/* Header */}
         <header className="text-center space-y-4 pt-8">
           <h1 className="text-5xl md:text-7xl font-bold text-foreground animate-fade-in">
-            MemeForge
+            Meme-It
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
             Turn any idea into viral-ready memes with AI magic ✨
