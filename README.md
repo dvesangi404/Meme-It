@@ -1,7 +1,7 @@
 # 🎨 Meme-it  
 **AI-Powered Meme Generator**
 
-![Meme-it Demo](./assets/memeit-preview.png) <!-- Replace with your own image path -->
+![Meme-it Demo](./Meme-It.png) <!-- Replace with your own image path -->
 
 ---
 
