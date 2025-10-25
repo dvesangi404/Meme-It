@@ -1,73 +1,49 @@
-# Welcome to your Lovable project
+# 🎨 Meme-it  
+**AI-Powered Meme Generator**
 
-## Project info
+![Meme-it Demo](./assets/memeit-preview.png) <!-- Replace with your own image path -->
 
-**URL**: https://lovable.dev/projects/1aa0584e-8314-4a89-96dc-9bba2c259810
+---
 
-## How can I edit this code?
+## 🧠 Overview
+**Meme-it** is a playful, intelligent meme generator that turns your text ideas into ready-to-share memes.  
+Powered by generative AI, it interprets your prompt, crafts a clever caption, and pairs it with the perfect visual style — creating viral-ready humor in seconds.
 
-There are several ways of editing your application.
+The project blends creativity and automation, showing how AI can personalize content generation for modern social media.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1aa0584e-8314-4a89-96dc-9bba2c259810) and start prompting.
+## ✨ Key Highlights
+- 🪄 **Idea-to-Meme Pipeline** – Converts plain text ideas into meme templates with AI-generated captions.  
+- 🎭 **Context-Aware Captioning** – Uses LLM-based text understanding to match tone, sarcasm, and style.  
+- 🖼️ **Smart Image Selection** – Chooses or recommends relevant templates dynamically.  
+- 💬 **Instant Preview & Download** – Lets users view, refine, and export memes immediately.  
+- 🎨 **Brand-Free Experience** – Custom-themed UI with “Meme-it” watermark branding removed for a clean aesthetic.  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧩 Tech Stack
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | React (Vite) / Tailwind CSS |
+| **Backend** | Node.js / Express |
+| **AI Integration** | Gemini API (text + image generation) |
+| **Data Handling** | Local storage for meme metadata |
+| **Version Control** | Git & GitHub |
+| **Deployment (optional)** | Render / Vercel |
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Vision
+Meme-it aims to explore **AI-driven humor creation** — blending natural language understanding with dynamic visual pairing.  
+Future iterations will include:
+- ✏️ Editable text overlays & custom templates  
+- 📊 Engagement analytics and trend tracking  
+- 🧩 Integration with social APIs for one-click sharing  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🧑‍💻 Author
+Built with creativity and code by **Dedeepya Vesangi (dvesangi404)**. 
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1aa0584e-8314-4a89-96dc-9bba2c259810) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
