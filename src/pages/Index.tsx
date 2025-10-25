@@ -16,11 +16,6 @@ const Index = () => {
 
         {/* Meme Generator */}
         <MemeGenerator />
-
-        {/* Footer */}
-        <footer className="text-center text-sm text-muted-foreground pt-12 pb-6">
-          <p>Powered by Lovable AI • Create unlimited memes</p>
-        </footer>
       </div>
     </div>
   );
